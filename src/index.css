@@ -35,6 +35,10 @@ body {
   .winner {
     background: rgb(65, 250, 59);
   }
+
+  .currentMove {
+    font-weight: 900;
+  }
   
   .square:focus {
     outline: none;
